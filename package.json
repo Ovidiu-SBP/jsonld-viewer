@@ -2,6 +2,7 @@
   "name": "platform-of-trust-ts",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Oviidu-SBP.github.io/",
   "dependencies": {
     "@material-ui/core": "^4.9.5",
     "@material-ui/icons": "^4.9.1",
@@ -20,11 +21,12 @@
     "react-i18next": "^11.3.4",
     "react-markdown": "^4.3.1",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "3.4.0",
     "typescript": "~3.7.2",
     "webfontloader": "^1.6.28"
   },
   "scripts": {
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -b master -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
