@@ -19,7 +19,7 @@ const CopyTooltip: React.FC<CopyTooltipTypes> = (props) => {
 		placement
 	} = props;
 	const [copied, setCopied] = useState(false);
-	const {t} = useTranslation();
+	const { t } = useTranslation();
 
 	const handleTooltipOpen = () => {
 		setCopied(true);
@@ -42,7 +42,7 @@ const CopyTooltip: React.FC<CopyTooltipTypes> = (props) => {
 				}}
 				onClose={handleTooltipClose}
 				open={copied}
-				title={t("Copied")}
+				title={("Copied")}
 			>
 				<CopyToClipboard
 					text={copyText}
