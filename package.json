@@ -2,7 +2,7 @@
   "name": "platform-of-trust-ts",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Oviidu-SBP.github.io/",
+  "homepage": "https://Ovidiu-SBP.github.io/",
   "dependencies": {
     "@material-ui/core": "^4.9.5",
     "@material-ui/icons": "^4.9.1",
@@ -27,7 +27,7 @@
   },
   "scripts": {
     "predeploy": "yarn run build",
-    "deploy": "gh-pages -b master -d build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
