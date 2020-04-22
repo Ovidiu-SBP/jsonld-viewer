@@ -2,7 +2,7 @@
   "name": "platform-of-trust-ts",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Ovidiu-SBP.github.io/jsonld-viewer",
+  "homepage": "https://Ovidiu-SBP.github.io/v1",
   "dependencies": {
     "@material-ui/core": "^4.9.5",
     "@material-ui/icons": "^4.9.1",
