@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/jsonld-viewer/static/css/main.47b21a67.chunk.css",
+    "main.js": "/jsonld-viewer/static/js/main.540bc972.chunk.js",
+    "main.js.map": "/jsonld-viewer/static/js/main.540bc972.chunk.js.map",
+    "runtime-main.js": "/jsonld-viewer/static/js/runtime-main.3ab46b4e.js",
+    "runtime-main.js.map": "/jsonld-viewer/static/js/runtime-main.3ab46b4e.js.map",
+    "static/js/2.a8ca5fcf.chunk.js": "/jsonld-viewer/static/js/2.a8ca5fcf.chunk.js",
+    "static/js/2.a8ca5fcf.chunk.js.map": "/jsonld-viewer/static/js/2.a8ca5fcf.chunk.js.map",
+    "index.html": "/jsonld-viewer/index.html",
+    "precache-manifest.f42decf34c4fc1863583fd48147803db.js": "/jsonld-viewer/precache-manifest.f42decf34c4fc1863583fd48147803db.js",
+    "service-worker.js": "/jsonld-viewer/service-worker.js",
+    "static/css/main.47b21a67.chunk.css.map": "/jsonld-viewer/static/css/main.47b21a67.chunk.css.map",
+    "static/js/2.a8ca5fcf.chunk.js.LICENSE.txt": "/jsonld-viewer/static/js/2.a8ca5fcf.chunk.js.LICENSE.txt",
+    "static/media/404.svg": "/jsonld-viewer/static/media/404.3098f2c4.svg",
+    "static/media/ClassdefinitionOverview.md": "/jsonld-viewer/static/media/ClassdefinitionOverview.2e751ade.md",
+    "static/media/context.md": "/jsonld-viewer/static/media/context.816201fc.md",
+    "static/media/logo.svg": "/jsonld-viewer/static/media/logo.291acff9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ab46b4e.js",
+    "static/js/2.a8ca5fcf.chunk.js",
+    "static/css/main.47b21a67.chunk.css",
+    "static/js/main.540bc972.chunk.js"
+  ]
+}
